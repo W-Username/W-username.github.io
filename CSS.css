@@ -1,0 +1,11 @@
+div {
+  height: 100%;
+  width: 50%;
+  background-color: white;
+  text-color: black;
+  text-align: left;
+}
+
+p.i {
+  font-style: italic;
+}
