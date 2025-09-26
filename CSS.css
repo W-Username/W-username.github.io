@@ -9,3 +9,8 @@ div {
 p.i {
   font-style: italic;
 }
+
+p.round {
+  border: 2px dodger blue;
+  border-radius: 5px;
+}
